@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Yannik. Happy to have you here on my GitHub profile!🎆🎈🎉
+
+One of my best GitHub repos is definitely Bikerus. It is a completely reproducible repository, which ends up deploying a local flask app with Machine Learning models. You can check it out here. There is also a presentation and a written paper about this project within this repo.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=estreuselito&repo=bikerus&theme=great-gatsby&bg_color=24292e&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+Apart from that, my favorite idiom is *we will cross that bridge when we get there*. For me it states that sometimes, although there seems to be an insurmountable problem, mostly in the end the problem is not too hard to master.
+
+I am always up for a chat, should you want to connect check [me](https://www.linkedin.com/in/yannik-suhre-732a041a9/) out on LinkedIn.💬
+
 <!--
 **Estreuselito/Estreuselito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Estreuselitos's github stats](https://github-readme-stats.vercel.app/api?username=Estreuselito&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
